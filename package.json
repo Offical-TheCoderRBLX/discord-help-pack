@@ -1,0 +1,19 @@
+{
+  "name": "thecoderrblx-dc-bot-helper",
+  "version": "0.0.1",
+  "description": "this is a package to help you make a discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Offical-TheCoderRBLX/discord-help-pack.git"
+  },
+  "author": "TheCoderRBLX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Offical-TheCoderRBLX/discord-help-pack/issues"
+  },
+  "homepage": "https://github.com/Offical-TheCoderRBLX/discord-help-pack#readme"
+}
